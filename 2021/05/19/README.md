@@ -1,6 +1,6 @@
-### Guatamala Midnight
+### Guatemala Midnight
 
 | Material | Quantity | UoM |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| cacao   | 0.7    | lb    |
+| organic cane sugar     | 0.3      | lb      |
